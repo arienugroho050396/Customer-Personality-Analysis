@@ -61,27 +61,33 @@ Need to perform clustering to summarize customer segments.
 - **Promotions Acceptance By Clusters**
 
 ## Conclusion
-- It seems very clear that there is no big difference between male and female customers, so a gender-based audience should not be chosen.
-- In addition, it seems that the audience between the ages of 20-40 spend more in this store compared to people in other age groups, making special campaigns for the audience between the ages of 20-40 can increase the profit of the supermarket.
-- This is not the optimal strategy, but it could be an alternative. Since the average spending scores of middle-income (40k-70k dollars) customers in this store are also at a medium level, it is difficult to increase their spending to higher levels because their income is not conducive to this, but by making campaigns to increase the number of these customers, the store can increase its profit by acquiring more middle-income customers.
-- I think the best strategy would be to target high-income customers. The reason is that some of the high-income customers spend high, while a significant portion of these customers spend low, there may be some things that low-spenders are not satisfied. Improvements to be made in service and quality can increase the spending of high-income customers who come to the store, but do not.
-- The distribution of the data was generally good, but the standard deviations were a little high and there was no significant positive correlation between the data, only a negative correlation between age and spending score that could be important, showing us that older people who choose this supermarket spend less money than people in other age groups.
+- Most of the customers are university graduates.
+- Most of the customers are living with partners.
+- Those living alone have spent more than those living with partners.
+- Most of the customers have only one child.
+- Those having no children have spent more.
+- Middle Age Adults, aged between 40 and 60, are famous age group category.
+- Middle Age Adults are spending on average, more than the other age groups.
+- Most of the customers are earning between 25000 and 85000.
+- Wine and Meat products are very famous among the customers.
+- On the basis of income and total spendings, customers are divided into 4 clusters i.e. Platinum, Gold, Silver and Bronze.
+- Most of the customers fall into the Silver and Gold categories.
+- Those who are earning more are also spending more.
+- Most of the customers like to buy from store and then online from the web.
+- Platinum customers showed more acceptance towards promotion campaigns while bronze customers the least interest.
 
 ## Answering Question
 **What are the statistical characteristics of the customers?**<br>
-The company's customers are mostly married. There are more Middle Aged Adults, aged between 40 and 60 and most of them like to have one child. Most of the customers hold bachelor degree and their earnings are mostly between 25,000 and 85,000.<br>
+The company's customers are mostly married. There are more Middle Aged Adults, aged between 40 and 60 and most of them like to have one child. Most of the customers hold   bachelor degree and their earnings are mostly between 25,000 and 85,000.<br>
 
-What are the spending habits of the customers?
+**What are the spending habits of the customers?** <br>
+Customers have spent more on wine and meat products. Those without children have spent more than those having children. Singles are spending more than the one's with the      partners. Middle aged adults have spent more than the other age groups. Store shopping is the preferred channel for purchasing among the customers. Web and Catalog            purchasing also have potential.<br>
 
-Customers have spent more on wine and meat products. Those without children have spent more than those having children. Singles are spending more than the one's with the partners. Middle aged adults have spent more than the other age groups. Store shopping is the preferred channel for purchasing among the customers. Web and Catalog purchasing also have potential.
+**Are there some products which need more marketing?**<br>
+Sweets and Fruits need some effective marketing. Company needs to run promotions for these products in order to increase the revenue from these products. Baskets of the      least selling products combined with the most selling products can be effective.<br>
 
-Are there some products which need more marketing?
-
-Sweets and Fruits need some effective marketing. Company needs to run promotions for these products in order to increase the revenue from these products. Baskets of the least selling products combined with the most selling products can be effective.
-
-How the marketing can be made effective?
-
-As a marketing recommendation give coupons to the old and high spending customers. Market the cheap and on-offer products to the low income and low spending customers. Web purchasing has some potential. To unlock this give special discounts to the customers who sign up on company's website.
+**How the marketing can be made effective?**<br>
+As a marketing recommendation give coupons to the old and high spending customers. Market the cheap and on-offer products to the low income and low spending customers. Web   purchasing has some potential. To unlock this give special discounts to the customers who sign up on company's website.<br>
 
 ## [Click Here  for Visualize and Analyze](https://arienugroho050396.github.io/project7.html) :thumbsup: :thumbsup: :thumbsup:
    
