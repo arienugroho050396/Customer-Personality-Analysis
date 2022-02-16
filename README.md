@@ -90,7 +90,8 @@ Sweets and Fruits need some effective marketing. Company needs to run promotions
 As a marketing recommendation give coupons to the old and high spending customers. Market the cheap and on-offer products to the low income and low spending customers. Web   purchasing has some potential. To unlock this give special discounts to the customers who sign up on company's website.<br>
 
 ## [Click Here  for Visualize and Analyze](https://arienugroho050396.github.io/project7.html) :thumbsup: :thumbsup: :thumbsup:
-   
+<img align="center" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/icegif-1436.gif">
+
   
  
  
