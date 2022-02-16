@@ -91,6 +91,9 @@ As a marketing recommendation give coupons to the old and high spending customer
 
 ## [Click Here  for Visualize and Analyze](https://arienugroho050396.github.io/project7.html) :thumbsup: :thumbsup: :thumbsup:
 <img align="center" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/icegif-1436.gif">
+<p align="center">
+  <img width="460" height="300" src="https://www.icegif.com/wp-content/uploads/icegif-1436.gif">
+</p>
 
   
  
