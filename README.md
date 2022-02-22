@@ -62,7 +62,7 @@ Need to perform clustering to summarize customer segments.
 
 ## Conclusion
 - Most of the customers are university graduates.
-- Most of the customers are living with partners.
+- Most of the customers are living with partners. 
 - Those living alone have spent more than those living with partners.
 - Most of the customers have only one child.
 - Those having no children have spent more.
