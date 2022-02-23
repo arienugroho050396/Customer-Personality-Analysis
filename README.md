@@ -3,7 +3,7 @@
 [*here you can download the cheatsheet*](https://www.kaggle.com/imakash3011/customer-personality-analysis)   
  
 ## Introduction 
-For the given Kaggle Dataset, I will perform the exploratory data analysis with the help of customer segmentation. Customer segmentation will be carried out with the help of K-Means alogorithm. At the end of analysis I would like to answer some questions by gaining some insights from the data.
+For the given Kaggle Dataset, I will perform the exploratory data analysis with the help of customer segmentation. Customer segmentation will be carried out with the help of K-Means alogorithm. At the end of analysis I would like to answer some questions by gaining some insights from the data. 
 
 ## Technical
 - Language : Python (filetype: *.ipynb*)
@@ -29,7 +29,7 @@ Need to perform clustering to summarize customer segments.
 - **MntMeatProducts** — Amount spent on meat in last 2 years.
 - **MntFishProducts** — Amount spent on fish in last 2 years.
 - **MntSweetProducts** — Amount spent on sweets in last 2 years.
-- **MntGoldProds** — Amount spent on gold in last 2 years.
+- **MntGoldProds** — Amount spent on gold in last 2 years. 
 ### Promotion :
 - **NumDealsPurchases** — Number of purchases made with a discount.
 - **AcceptedCmp1** — 1 if customer accepted the offer in the 1st campaign, 0 otherwise.
