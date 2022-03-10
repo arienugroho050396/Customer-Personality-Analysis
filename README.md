@@ -1,4 +1,4 @@
-# Customer-Personality-Analysis :smiley:  
+# Customer-Personality-Analysis :smiley:   
    
 [*here you can download the cheatsheet*](https://www.kaggle.com/imakash3011/customer-personality-analysis)    
   
