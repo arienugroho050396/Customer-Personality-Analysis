@@ -49,7 +49,7 @@ Need to perform clustering to summarize customer segments.
 - **What are the spending habits of the customers?**
 - **Are there some products which need more marketing?**
 - **How the marketing can be made effective?**
-
+  
 ## Step Inside The Project
 - **Exploratory Data Analysis (EDA)**
 - **Machine Learning Model (K-Means)**
