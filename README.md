@@ -8,7 +8,7 @@ For the given Kaggle Dataset, I will perform the exploratory data analysis with 
 ## Technical   
 - Language : Python (filetype: *.ipynb*)  
 
-## Content
+## Content 
 Need to perform clustering to summarize customer segments.
 
 ## Data Field
