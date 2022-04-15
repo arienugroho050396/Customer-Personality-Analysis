@@ -21,7 +21,7 @@ Need to perform clustering to summarize customer segments.
 - **Kidhome** — Number of children in customer's household.
 - **Teenhome** — Number of teenagers in customer's household.
 - **Dt_Customer** — Date of customer's enrollment with the company.
-- **Recency** — Number of days since customer's last purchase.
+- **Recency** — Number of days since customer's last purchase. 
 - **Complain** — 1 if customer complained in the last 2 years, 0 otherwise.
 ### Products :
 - **MntWines** — Amount spent on wine in last 2 years.
