@@ -39,18 +39,25 @@ Need to perform clustering to summarize customer segments.
 | `MntGoldProds` | Amount spent on gold in last 2 years |
 
 ### Promotion :
-- **NumDealsPurchases** — Number of purchases made with a discount.
-- **AcceptedCmp1** — 1 if customer accepted the offer in the 1st campaign, 0 otherwise.
-- **AcceptedCmp2** — 1 if customer accepted the offer in the 2nd campaign, 0 otherwise.
-- **AcceptedCmp3** — 1 if customer accepted the offer in the 3rd campaign, 0 otherwise.
-- **AcceptedCmp4** — 1 if customer accepted the offer in the 4th campaign, 0 otherwise.
-- **AcceptedCmp5** — 1 if customer accepted the offer in the 5th campaign, 0 otherwise.
-- **Response** — 1 if customer accepted the offer in the last campaign, 0 otherwise.
+
+| Variable Name | Description |
+| --- | --- |
+| `NumDealsPurchases` | Number of purchases made with a discount |
+| `AcceptedCmp1` | 1 if customer accepted the offer in the 1st campaign, 0 otherwise |
+| `AcceptedCmp2` | 1 if customer accepted the offer in the 2nd campaign, 0 otherwise |
+| `AcceptedCmp3` | 1 if customer accepted the offer in the 3rd campaign, 0 otherwise |
+| `AcceptedCmp4` | 1 if customer accepted the offer in the 4th campaign, 0 otherwise |
+| `AcceptedCmp5` | 1 if customer accepted the offer in the 5th campaign, 0 otherwise |
+| `Response` | 1 if customer accepted the offer in the last campaign, 0 otherwise |
+
 ### Place :
-- **NumWebPurchases** — Number of purchases made through the company’s web site.
-- **NumCatalogPurchases** — Number of purchases made using a catalogue.
-- **NumStorePurchases** — Number of purchases made directly in stores.
-- **NumWebVisitsMonth** — Number of visits to company’s web site in the last month.
+
+| Variable Name | Description |
+| --- | --- |
+| `NumWebPurchases` | Number of purchases made through the company’s web site |
+| `NumCatalogPurchases` | Number of purchases made using a catalogue |
+| `NumStorePurchases` | Number of purchases made directly in stores |
+| `NumWebVisitsMonth` | Number of visits to company’s web site in the last month |
 
 ## What We Got From This Project
 - **What are the statistical characteristics of the customers?**
