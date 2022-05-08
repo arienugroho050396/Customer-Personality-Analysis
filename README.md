@@ -5,7 +5,7 @@
 ## Introduction
 For the given Kaggle Dataset, I will perform the exploratory data analysis with the help of customer segmentation. Customer segmentation will be carried out with the help of K-Means alogorithm. At the end of analysis I would like to answer some questions by gaining some insights from the data.  
 
-## Technical 
+## Technical  
 - Language : Python (filetype: *.ipynb*)  
 
 ## Content 
