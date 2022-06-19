@@ -1,4 +1,5 @@
-# Customer-Personality-Analysis
+![This is an image](https://github.com/arienugroho050396/Customer-Personality-Analysis/blob/main/header.png)
+
  
 [*here you can download the cheatsheet*](https://www.kaggle.com/imakash3011/customer-personality-analysis)  
 
