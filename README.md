@@ -13,7 +13,7 @@ For the given Kaggle Dataset, I will perform the exploratory data analysis with 
 Need to perform clustering to summarize customer segments.
 
 ## Data Field
-### People :
+### People : 
 
 | Variable Name | Description |
 | --- | --- |
