@@ -30,7 +30,7 @@ Need to perform clustering to summarize customer segments.
 
 ### Products :
 
-| Variable Name | Description |
+| Variable Name | Description | 
 | --- | --- |
 | `MntWines` | Amount spent on wine in last 2 years |
 | `MntFruits` | Amount spent on fruits in last 2 years |
